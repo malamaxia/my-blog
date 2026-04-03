@@ -1,0 +1,30 @@
+site_name: 我的博客
+site_description: 个人技术博客
+site_author: Your Name
+
+theme:
+  name: material
+  language: zh
+  palette: 
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+
+nav:
+  - 首页: index.md
+  - 文章: 
+    - 第一篇: articles/first-post.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+
+plugins:
+  - search
