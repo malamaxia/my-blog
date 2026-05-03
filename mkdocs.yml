@@ -1,8 +1,8 @@
 site_name: 麻虾的技术站
 site_description: 个人技术博客
 site_author: malamaxia
-repo_url: https://github.com/malamaxia/my-blog
-repo_name: malamaxia/my-blog
+repo_url: https://github.com/malamaxia/malamaxia-blog
+repo_name: malamaxia/malamaxia-blog
 
 theme:
   name: material
