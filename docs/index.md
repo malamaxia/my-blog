@@ -8,7 +8,8 @@
 
 ## 最新文章
 
-- [我的第一篇文章](./articles/first-post.md)
+- [我的第一篇文章](articles/first-post.md)
+- [Claude Code 使用指导](articles/claude code使用指导.md)
 
 ## 技术栈
 
