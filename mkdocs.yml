@@ -34,8 +34,7 @@ nav:
   - 首页: index.md
   - 文章:
     - 第一篇: articles/first-post.md
-    - Claude Code 使用指导: articles/claude code使用指导.md
-    - Claude Code 纯中文输出配置指南: articles/claude-code-chinese-output.md
+    - Claude Code 纯中文输出配置指南: articles/claude-code纯中文输出配置指南.md
 
 markdown_extensions:
   - admonition
